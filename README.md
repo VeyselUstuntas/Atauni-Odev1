@@ -3,6 +3,6 @@ Açık Kaynak Yazılım Geliştirme Ödev 1
 
 ## Kullanımı
 
-''' bash
+```bash 
 bash script.sh
-'''
+```
